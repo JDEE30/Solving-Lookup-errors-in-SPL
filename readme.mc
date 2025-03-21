@@ -34,7 +34,7 @@ This helps pinpoint which lookup is failing and why.
 
 At a deeper level and this is pretty important. if you go go splunkbase and download the application with the look up error, you can essentially grab the look up files from the new add-on download and move them to the installed files.
 
-You have to manually do this in the server. I'll write a more indepth article and link it here.
+Here is a a more indepth guide on how to manually solve look up errors by updating them with default files.  https://github.com/JDEE30/manually-resolving-look-issuues/tree/main
 
 ---
 
